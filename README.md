@@ -1,6 +1,6 @@
 # Scraper-for-Job-Hunting
 
-In this project, I developed an automatic generator for job hunting information report. It allows users to input a job position they are interested in and return a job report in HTML format. 
+In this project, I developed an automated report generator for job hunting information. It allows users to input a job position they are interested in and return a job report in HTML format. 
 
 The main libraries included are pandas, selenium, matplotlib, plotly and wordCloud. 
 
